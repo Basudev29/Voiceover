@@ -14,3 +14,4 @@ Ye ek simple open-source Python GUI app hai jo text ko Hindi/English me **voiceo
 
 1. Repository clone karo:
 
+https://github.com/Basudev29/Voiceover.git
