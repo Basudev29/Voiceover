@@ -1,5 +1,7 @@
 import os
+import gc
 from gtts import gTTS
+import tkinter as tk
 from tkinter import Tk, Label, Text, Button, StringVar, OptionMenu, END, filedialog, messagebox, Frame, Scale, DoubleVar
 from pydub import AudioSegment
 from playsound import playsound
